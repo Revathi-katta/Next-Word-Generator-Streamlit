@@ -8,8 +8,9 @@ Generate the **next _k_ words** given a context using a **word-level MLP languag
 
 ---
 ## Preview
-
-![App Screenshot](appScreenshots/Screenshot model1.png)
+<div style="display: flex;">
+  <img src="appScreenshots/Screenshot model1.png" />
+</div>
 
 ## Features
 
